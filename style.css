@@ -409,7 +409,7 @@ body{
     .menu{
         padding: 100px;
         padding-top: 40px;
-        padding-bottom: 40px;
+        padding-bottom: 30px;
     }
     .menu .box-container {
         display: grid;
@@ -478,7 +478,7 @@ body{
     /*Fim Section menu*/
 
     .section-padding{
-    padding: 150px 0;
+    padding: 170px 0;
     background-color: rgb(235, 208, 173);
     opacity: 100%;
     margin-top: 100px;
